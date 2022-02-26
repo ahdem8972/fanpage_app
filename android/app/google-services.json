@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "820907584791",
+    "project_id": "fanpage2-decb2",
+    "storage_bucket": "fanpage2-decb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820907584791:android:fe3d7e9133c37668c09b52",
+        "android_client_info": {
+          "package_name": "com.ahmedhassanfanpage.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820907584791-n8q9k9lps8d4ouburqa52j3tuk9fptqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmedhassanfanpage.app",
+            "certificate_hash": "ef22b6b64dad4542249433ee161cc0563d4d6c61"
+          }
+        },
+        {
+          "client_id": "820907584791-2nq2u124t9d4or7d99mt091p8fabhu5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqiYMSfPtcXPoQKxBBBpEr9gTgDBIYA3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820907584791-2nq2u124t9d4or7d99mt091p8fabhu5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820907584791:android:9ba59bedd21a0fa4c09b52",
+        "android_client_info": {
+          "package_name": "com.example.fanpage_22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820907584791-2nq2u124t9d4or7d99mt091p8fabhu5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqiYMSfPtcXPoQKxBBBpEr9gTgDBIYA3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820907584791-2nq2u124t9d4or7d99mt091p8fabhu5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
